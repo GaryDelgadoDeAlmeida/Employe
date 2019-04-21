@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Employe\TP_Employe\bin\Debug\TP_Employe.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Employe\TP_Employe\bin\Debug\TP_Employe.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Employe\TP_Employe\bin\Debug\TP_Employe.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Employe\TP_Employe\obj\Debug\TP_Employe.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Employe\TP_Employe\obj\Debug\TP_Employe.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Employe\TP_Employe\obj\Debug\TP_Employe.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Employe\TP_Employe\obj\Debug\TP_Employe.pdb
